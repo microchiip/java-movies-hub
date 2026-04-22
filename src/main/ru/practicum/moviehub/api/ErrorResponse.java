@@ -19,7 +19,7 @@ public class ErrorResponse {
     public String getError() {
         return error;
     }
-    
+
     public List<String> getDetails() {
         return details;
     }
